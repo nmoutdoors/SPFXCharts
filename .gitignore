@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+temp/
+dist/
+lib/
+
+# Build results
+*.sppkg
+
+# Coverage directory used by tools like istanbul
+coverage
+
+# Misc
+.DS_Store
+*.log
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE
+.idea
+.vscode
+*.swp
+*.swo
+
+# SPFx specific
+sharepoint/solution/*.sppkg
+.yo-rc.json
+
