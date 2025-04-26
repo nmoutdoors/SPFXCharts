@@ -9,6 +9,29 @@ A SharePoint Framework web part that displays various chart types using Chart.js
 - Doughnut Chart
 - Polar Area Chart
 
+## Chart Types Preview
+
+### Pie Chart
+![Pie Chart](./assets/Pie.png)
+
+### Bar Chart
+![Bar Chart](./assets/Bar.png)
+
+### Line Chart
+![Line Chart](./assets/Line.png)
+
+### Radar Chart
+![Radar Chart](./assets/Radar.png)
+
+### Scatter Plot
+![Scatter Plot](./assets/Scatter.png)
+
+### Doughnut Chart
+![Doughnut Chart](./assets/Doughnut.png)
+
+### Polar Area Chart
+![Polar Area Chart](./assets/Polar.png)
+
 ## Prerequisites
 
 - Node.js version 16+
@@ -65,5 +88,7 @@ To build and deploy to SharePoint:
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+
 
 
